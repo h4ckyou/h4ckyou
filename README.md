@@ -74,7 +74,7 @@
     <img src="http://www.hackthebox.eu/badge/image/948393" alt="Hack The Box">
   </a>
   <a href="https://tryhackme.com/p/Hack.You">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Hack.You" alt="TryHackMe">
+     <img src="https://tryhackme-badges.s3.amazonaws.com/Hack.You.png" alt="TryHackMe">
   </a>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
