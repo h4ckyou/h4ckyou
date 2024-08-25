@@ -24,7 +24,7 @@
 </a></p>
         <br> 
 <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg" alt="linux-OS" width="40" height="40"/>
+    <img src="https://www.debian.org/Pics/debian-logo-1024x576.png" alt="Debian" width="40" height="40"/>
 </a>
 <a href="https://www.python.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
