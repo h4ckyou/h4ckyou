@@ -4,7 +4,7 @@
             <b>
             Hi There!
         <br>
-            I'm Uche, a Computer Science Student
+            I'm Uche, a Computer Science Student and
                 I love to solve challenges in my free time xD
             </b>
         <br>
@@ -27,7 +27,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg" alt="linux-OS" width="40" height="40"/>
 </a>
 <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="linux-OS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1024px-The_C_Programming_Language_logo.svg.png" alt="C" width="40" height="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/Windows" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
@@ -36,34 +39,34 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="Virtualization" width="40" height="40"/>
 </a>
 <a href="https://nginx.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="linux-OS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
 </a>
 <a href="https://httpd.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="linux-OS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40"/>
 </a>
 <a href="https://www.markdownguide.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="linux-OS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/>
 </a>
 <a href="https://www.putty.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="linux-OS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="Putty" width="40" height="40"/>
 </a>
 <a href="https://stackoverflow.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="linux-OS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="StackOverflow" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="linux-OS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/>
 </a>
 <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://i.postimg.cc/HLDqv8VY/images-removebg-preview-1.png" alt="linux-OS" width="40" height="40"/>
+    <img src="https://i.postimg.cc/HLDqv8VY/images-removebg-preview-1.png" alt="Burp" width="40" height="40"/>
 </a>
 <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://i.postimg.cc/Ssw1RwCy/download-removebg-preview.png" alt="linux-OS" width="40" height="40"/>
+    <img src="https://i.postimg.cc/Ssw1RwCy/download-removebg-preview.png" alt="Metasploit" width="40" height="40"/>
 </a>
 <a href="https://bloodhound.readthedocs.io/en/latest/" target="_blank">
-    <img src="https://i.postimg.cc/5yS5JGmK/1-E0-I-QO-1-U8y-ROC6-Fb-Uy-HGA-removebg-preview.png" alt="linux-OS" width="40" height="40"/>
+    <img src="https://i.postimg.cc/5yS5JGmK/1-E0-I-QO-1-U8y-ROC6-Fb-Uy-HGA-removebg-preview.png" alt="Bloodhound" width="40" height="40"/>
 </a>
 <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://i.postimg.cc/V6p7H3kx/wireshark-104082-removebg-preview.png" alt="linux-OS" width="40" height="40"/>
+    <img src="https://i.postimg.cc/V6p7H3kx/wireshark-104082-removebg-preview.png" alt="Wireshark" width="40" height="40"/>
 </a>
 <a href="https://ohmyz.sh/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
