@@ -29,8 +29,11 @@
 <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="linux-OS" width="40" height="40"/>
 </a>
-<a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
+<a href="https://en.wikipedia.org/wiki/Windows" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Virtualization" target="_blank">
+    <img src="https://simple.wikipedia.org/wiki/File:Vmware_workstation_16_icon.svg" alt="Windows" width="40" height="40"/>
 </a>
 <a href="https://nginx.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="linux-OS" width="40" height="40"/>
