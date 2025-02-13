@@ -4,8 +4,8 @@
             <b>
             Hi There!
         <br>
-            I'm Uche, a Computer Science Student and
-                I love to solve challenges in my free time xD
+            I'm Uche, a Computer Science Student who
+               does pwn/rev stuffs in his free time :3
             </b>
         <br>
         <br>
