@@ -83,13 +83,13 @@
 <br>
 <p align="center">
   <a href="https://app.hackthebox.com/profile/948393">
-    <img src="http://www.hackthebox.eu/badge/image/948393" alt="Hack The Box">
+    <img src="http://www.hackthebox.eu/badge/image/948393" alt="Hack The Box" width="329" height="88">
   </a>
   <a href="https://tryhackme.com/p/Hack.You">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/Hack.You.png" alt="TryHackMe">
+     <img src="https://tryhackme-badges.s3.amazonaws.com/Hack.You.png" alt="TryHackMe" width="329" height="88">
   </a>
 <a href="https://online.pwntilldawn.com/Achievements/4478">
-     <img src="https://pwntilldawn-badge.rammybizz.workers.dev/profile/badge/4478.png" alt="PwnTillDawn">
+     <img src="https://pwntilldawn-badge.rammybizz.workers.dev/profile/badge/4478.png" alt="PwnTillDawn" width="329" height="88">
   </a>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
