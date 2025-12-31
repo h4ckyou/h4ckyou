@@ -81,9 +81,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="ohmyZsh" width="40" height="40"/>
 </a> </p>
 <br>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4ckyou&show_icons=true&theme=dracula&layout=compact&hide=html,roff,css" />
-</a></p>
 <p align="center">
   <a href="https://app.hackthebox.com/profile/948393">
     <img src="http://www.hackthebox.eu/badge/image/948393" alt="Hack The Box">
