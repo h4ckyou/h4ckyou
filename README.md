@@ -19,9 +19,6 @@
           <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=1793D1&center=true&width=410&height=45&lines=I+use+linux+btw+<3">
       </samp>
     </p>
-<p align="center"><a href="https://kali.org/">
-    <img src="https://i.postimg.cc/FRT10RrC/Kali-Linux-Penetration-Testing-and-Ethical-Hacking-Linux-Distribution-removebg-preview.png" height="20%" width="20%">
-</a></p>
         <br> 
 <a href="https://www.linux.org/" target="_blank">
     <img src="https://www.debian.org/Pics/debian-logo-1024x576.png" alt="Debian" width="40" height="40"/>
